@@ -1,5 +1,0 @@
-# Ignore everything in the output directory by default
-output/*
-
-# BUT, do NOT ignore the specific CSV file we want to track
-!output/cnastock_rs.csv
